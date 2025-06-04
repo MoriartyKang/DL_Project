@@ -32,7 +32,7 @@ PubMed 논문들을 참고하여 다양한 머신러닝 및 딥러닝 알고리�
 
 --모델 구조--
 
-![img](https://drive.google.com/uc?export=view&id=1dhE4odB0ezvL6iLgf51IhL6y8kXKlCtF/view?usp=drive_link)
+![img](https://drive.google.com/uc?export=view&id=1dhE4odB0ezvL6iLgf51IhL6y8kXKlCtF)
 
 텍스트 인풋: 음식명 (KoBERT 임베딩 사용)
 
